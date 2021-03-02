@@ -1,0 +1,32 @@
+#app {
+    margin: 2em;
+  }
+  
+  .calculator {
+    max-width:400px;
+    margin:auto;
+    border:7px solid black
+  }
+  
+  .output {
+    height :60px;
+    background-color: white;
+    width:100%;
+      border:1px solid black
+  }
+  
+  .output p{
+    font-size:40px;
+    margin:5px;
+  }
+  
+  .button{
+    display:block;
+    background-color: black;
+  }
+  
+  button {
+    height :60px;
+    width:25%;
+    font-size:30px;
+  }
